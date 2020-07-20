@@ -34,7 +34,7 @@
 	
 	 <div class="form-row">
    <select class="custom-select custom-select-lg mb-3" >
-  <option selected>Open this state list</option required>
+  <option selected>Open this state list</option>
   <option value="1">Andhra Pradesh</option>
   <option value="2">Arunachal Pradesh</option>
   <option value="3"> Assam</option>
